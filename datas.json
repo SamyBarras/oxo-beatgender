@@ -1,0 +1,77 @@
+{
+	"pattrstorage" : 	{
+		"name" : "datas",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"gribouilliTint" : [ 1.0, 1.0, 1.0, 1.0, 0.162760457955301, 0.815686, 1.0 ],
+					"cornerpin-upleft" : [ 39, 140 ],
+					"cornerpin-upright" : [ 991, 120 ],
+					"cornerpin-lowleft" : [ 35, 1070 ],
+					"cornerpin-lowright" : [ 995, 1072 ],
+					"touchSens" : [ 45 ],
+					"zone1::zone-1-pos-x" : [ -0.778 ],
+					"zone1::zone-1-pos-y" : [ 0.771 ],
+					"zone1::zone-1-scale" : [ 0.224 ],
+					"zone2::zone-2-pos-x" : [ -0.026 ],
+					"zone2::zone-2-pos-y" : [ 0.762 ],
+					"zone2::zone-2-scale" : [ 0.241 ],
+					"zone3::zone-3-pos-x" : [ 0.473 ],
+					"zone3::zone-3-pos-y" : [ 0.633 ],
+					"zone3::zone-3-scale" : [ 0.362 ],
+					"zone4::zone-4-pos-x" : [ -0.355 ],
+					"zone4::zone-4-pos-y" : [ 0.15 ],
+					"zone4::zone-4-scale" : [ 0.449 ],
+					"zone6::zone-6-pos-x" : [ -0.449 ],
+					"zone6::zone-6-pos-y" : [ -0.644 ],
+					"zone6::zone-6-scale" : [ 0.358 ],
+					"zone7::zone-7-pos-x" : [ 0.542 ],
+					"zone7::zone-7-pos-y" : [ -0.663 ],
+					"zone7::zone-7-scale" : [ 0.34 ],
+					"zone5::zone-5-pos-x" : [ 0.269 ],
+					"zone5::zone-5-pos-y" : [ 0.19 ],
+					"zone5::zone-5-scale" : [ 0.087 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"gribouilliTint" : [  ],
+					"cornerpin-upleft" : [  ],
+					"cornerpin-upright" : [  ],
+					"cornerpin-lowleft" : [  ],
+					"cornerpin-lowright" : [  ],
+					"touchSens" : [  ],
+					"zone1::zone-1-pos-x" : [  ],
+					"zone1::zone-1-pos-y" : [  ],
+					"zone1::zone-1-scale" : [  ],
+					"zone2::zone-2-pos-x" : [  ],
+					"zone2::zone-2-pos-y" : [  ],
+					"zone2::zone-2-scale" : [  ],
+					"zone3::zone-3-pos-x" : [  ],
+					"zone3::zone-3-pos-y" : [  ],
+					"zone3::zone-3-scale" : [  ],
+					"zone4::zone-4-pos-x" : [  ],
+					"zone4::zone-4-pos-y" : [  ],
+					"zone4::zone-4-scale" : [  ],
+					"zone6::zone-6-pos-x" : [  ],
+					"zone6::zone-6-pos-y" : [  ],
+					"zone6::zone-6-scale" : [  ],
+					"zone7::zone-7-pos-x" : [  ],
+					"zone7::zone-7-pos-y" : [  ],
+					"zone7::zone-7-scale" : [  ],
+					"zone5::zone-5-pos-x" : [  ],
+					"zone5::zone-5-pos-y" : [  ],
+					"zone5::zone-5-scale" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
